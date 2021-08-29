@@ -1,0 +1,15 @@
+body {
+  text-decoration: none;
+}
+
+.jumbotron {
+  background-color: #e2edff;
+}
+
+#photos {
+  background-color: #e2edff;
+}
+
+section {
+  padding-top: 6rem;
+}
